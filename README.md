@@ -1,6 +1,9 @@
 # dailyTask
-  1. Create an issue with your task.
-  1. Create a pull request for that issue.
+  1. Fork
+  1. Clone
+  1. Commit
+  1. Merge with upstream
+  1. Create a pull request
 
 ## TO DO
   - add sorting algorithms
